@@ -17,7 +17,11 @@ Android Studio, Firebase, and BreweryDB API
 ### Setup: 
   1. Install Android studio 2.1.2
   2. Download repository from github @ https://github.com/dowjohn/android-independent-project
-  3. Run app in android studio
+  3. Generate from BreweryDB an API key and place in gradle.properties file
+  4. A google-services.json file is necessary to run app in android studio
+  5. Run app in android studio
+
+### OR download APK and install from google drive: IN PROGRESS
   
 ### Author: John Dow
 
